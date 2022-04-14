@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Marriazi
+- 👋 Hi, I’m @Marriazi, I'm 16 and I'm from Ukraine.
 - 👀 I’m interested in programming, in general I want to become a web developer
 - 🌱 I’m currently learning JavaScript on offline-course  
 - 💞️ I’m looking to collaborate on people who have a slightly higher level of knowledge and practice than I do. To learn from them
